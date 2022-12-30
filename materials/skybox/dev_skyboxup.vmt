@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$nofog 1
+	$ignorez 1
+	$basetexture "dev/dev_measuregeneric01"
+	$basetexturetransform "center .5 .5 scale 20 20 rotate 0 translate 0 0"
+}

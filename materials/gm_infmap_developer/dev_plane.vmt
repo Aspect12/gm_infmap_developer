@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{	
+	"$basetexture" "dev/dev_measuregeneric01"
+	"$basetexturetransform" "center 1 1 scale .712 .712 rotate 0 translate 0 0"
+	"$surfaceprop" "concrete"
+
+	"$selfillum" 0
+	"$model" 1
+	"$halflambert" 1
+}
