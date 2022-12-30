@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "25"
+	"mapversion" "24"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -72,7 +72,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "25"
+	"mapversion" "24"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -793,7 +793,7 @@ entity
 	"classname" "env_cubemap"
 	"cubemapsize" "9"
 	"sides" ""
-	"origin" "0 0 64"
+	"origin" "0 0 28"
 	editor
 	{
 		"color" "0 0 255"
@@ -809,7 +809,7 @@ entity
 	"angles" "0 0 0"
 	"hammerid" "89"
 	"spawnflags" "0"
-	"origin" "0 0 0"
+	"origin" "0 0 -36"
 	editor
 	{
 		"color" "0 255 0"
@@ -837,7 +837,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"use_angles" "0"
-	"origin" "16 -32 32"
+	"origin" "16 -32 -4"
 	editor
 	{
 		"color" "255 255 255"
