@@ -1,4 +1,4 @@
-InfMap.chunk_resolution = 3
+InfMap.chunk_resolution = 1
 
 InfMap.filter["infmap_terrain_collider"] = true	// dont pass in chunks
 InfMap.disable_pickup["infmap_terrain_collider"] = true	// no pickup
